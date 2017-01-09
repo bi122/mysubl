@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"Emmet",
+		"HTTP Spec Syntax",
+		"JavaScript & NodeJS Snippets",
+		"Material Theme",
+		"Package Control",
+		"PhpDoc",
+		"Theme - SoDaReloaded",
+		"zz File Icons"
+	]
+}
