@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
+		"AdvancedNewFile",
 		"ApacheConf.tmLanguage",
 		"Emmet",
 		"HTTP Spec Syntax",
@@ -13,6 +15,6 @@
 		"Package Control",
 		"PhpDoc",
 		"Theme - SoDaReloaded",
-		"zz File Icons"
+		"Vue Syntax Highlight"
 	]
 }
